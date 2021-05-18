@@ -2,6 +2,12 @@
 
 Ansible Galaxy module for Cisco SMB switches - SG300, SG500, SG350, SG550, CBS350
 
+**This collection is renamed to "community.ciscosmb"**
+
+!!! Do not use this collection, it is deprecated !!!
+
+Use "community.ciscosmb" with the same effect. It's Github repository is https://github.com/ansible-collections/community.ciscosmb
+
 ## Install
 
 ```
